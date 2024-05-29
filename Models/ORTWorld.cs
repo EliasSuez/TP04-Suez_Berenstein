@@ -31,6 +31,11 @@ public class ORTWorld
         ListaDestinos.Add("Argentina");
     }
 
+    private static void PrecargarHoteles(List<string> ListaHoteles)
+    {
+        ListaHoteles.Add();
+    }
+
     static bool IngresarPaquete(string destinoSeleccionado, Paquete paquete)
     {
         if (Paquetes.ContainsKey(destinoSeleccionado))
