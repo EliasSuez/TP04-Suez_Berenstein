@@ -1,0 +1,17 @@
+
+<div>
+    <h1>Destinos:</h1>
+    @for (int i = 0; i < ViewBag.Destinos.Count; i++)
+    {
+        <option value="@i">@ViewBag.Destinos[i]</option>
+    }
+</div>
+
+<div>
+    <h1>Hoteles:</h1>
+    @for (int i = 0; i < ViewBag.ListaHoteles.Count; i++)
+    {
+        <option value="@i">@ViewBag.ListaHoteles[i]</option>
+    }
+</div>
+

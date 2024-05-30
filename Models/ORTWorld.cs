@@ -7,35 +7,26 @@ public class ORTWorld
     public static List<string> ListaExcursiones { get; private set; }
     public static Dictionary<string, Paquete> Paquetes { get; private set; }
 
-    public ORTWorld(List<string> listadestinos, List<string> listahoteles, List<string> listaaereos, List<string> listaexcursiones, Dictionary<string, Paquete> paquetes)
+    static ORTWorld()
     {
-        ListaDestinos = listadestinos;
-        PrecargarDestinos(ListaDestinos);
-        ListaHoteles = listahoteles;
-        ListaAereos = listaaereos;
-        ListaExcursiones = listaexcursiones;
-        Paquetes = paquetes;
+        ListaDestinos = new List<string>
+        {
+            "Brasil", "Chile", "Colombia", "Italia", "Francia", "Inglaterra", "Estados Unidos", "Alemania", "Mexico", "Argentina"
+        };
+        ListaHoteles = new List<string>
+        {
+            "Alemania.jpg", "Argentina.jpg","Brasil.jfif","Chile.jpg","Colombia.jpg","Estados Unidos.webp","Francia.jpg","Inglaterra.jpg","Italia.jpg","Mexico.jpg"
+        };
+        ListaAereos = new List<string>
+        {
+            "Alemania.jpg", "Argentina.jpg","Brasil.jfif","Chile.jpg","Colombia.jpg","Estados Unidos.webp","Francia.jpg","Inglaterra.jpg","Italia.jpg","Mexico.jpg"
+        };
+        ListaExcursiones = new List<string>
+        {
+            "Alemania.jpg", "Argentina.jpg","Brasil.jfif","Chile.jpg","Colombia.jpg","Estados Unidos.webp","Francia.jpg","Inglaterra.jpg","Italia.jpg","Mexico.jpg"
+        };
+        Paquetes = new Dictionary<string, Paquete>();
     }
-
-    private static void PrecargarDestinos(List<string> ListaDestinos)
-    {
-        ListaDestinos.Add("Brasil");
-        ListaDestinos.Add("Chile");
-        ListaDestinos.Add("Colombia");
-        ListaDestinos.Add("Italia");
-        ListaDestinos.Add("Francia");
-        ListaDestinos.Add("Inglaterra");
-        ListaDestinos.Add("Estados Unidos");
-        ListaDestinos.Add("Alemania");
-        ListaDestinos.Add("Mexico");
-        ListaDestinos.Add("Argentina");
-    }
-
-    private static void PrecargarHoteles(List<string> ListaHoteles)
-    {
-        ListaHoteles.Add();
-    }
-
     static bool IngresarPaquete(string destinoSeleccionado, Paquete paquete)
     {
         if (Paquetes.ContainsKey(destinoSeleccionado))
@@ -43,5 +34,4 @@ public class ORTWorld
         else
             return true;
     }
-
 }
