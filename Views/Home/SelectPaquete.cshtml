@@ -6,7 +6,7 @@
         <option value="@i">@ViewBag.ListaDestinos[i]</option>
     }
     <label for="quantity">Opcion (entre 1 y 10):</label>
-        <input type="number" id="Hotel" name="Hotel" min="1" max="10">
+        <input type="number" id="Destinos" name="Destinos" min="1" max="10">
 </div>
 
 <div>
@@ -25,15 +25,15 @@
         <img src="~/img/@ViewBag.ListaAereos[i]">
     }
         <label for="quantity">Opcion (entre 1 y 10):</label>
-        <input type="number" id="Hotel" name="Hotel" min="1" max="10">
+        <input type="number" id="Aereo" name="Aereo" min="1" max="10">
 </div>
 
 <div>
-    <h1>Aereo:</h1>
+    <h1>Excursiones:</h1>
     @for (int i = 0; i < ViewBag.ListaExcursiones.Count; i++)
     {
         <img src="~/img/@ViewBag.ListaExcursiones[i]">
     }
         <label for="quantity">Opcion (entre 1 y 10):</label>
-        <input type="number" id="Hotel" name="Hotel" min="1" max="10">
+        <input type="number" id="Excursiones" name="Excursiones" min="1" max="10">
 </div>
