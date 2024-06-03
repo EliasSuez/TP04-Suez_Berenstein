@@ -19,12 +19,17 @@ public class HomeController : Controller
         ViewBag.ListaHoteles = ORTWorld.ListaHoteles;
         ViewBag.ListaAereos = ORTWorld.ListaAereos;
         ViewBag.ListaExcursiones = ORTWorld.ListaExcursiones;
+
+        ViewBag.Diccionario = ORTWorld.Paquetes;
         return View();
     }
     
-    public IActionResult SelectPaquete(List<string> Listadestinos)
+    public IActionResult SelectPaquete()
     {
         ViewBag.ListaDestinos = ORTWorld.ListaDestinos;
+        ViewBag.ListaHoteles = ORTWorld.ListaHoteles;
+        ViewBag.ListaAereos = ORTWorld.ListaAereos;
+        ViewBag.ListaExcursiones = ORTWorld.ListaExcursiones;
         return View();
     }
 }

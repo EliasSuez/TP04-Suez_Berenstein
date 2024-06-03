@@ -1,17 +1,39 @@
 
 <div>
     <h1>Destinos:</h1>
-    @for (int i = 0; i < ViewBag.Destinos.Count; i++)
+    @for (int i = 0; i < ViewBag.ListaDestinos.Count; i++)
     {
-        <option value="@i">@ViewBag.Destinos[i]</option>
+        <option value="@i">@ViewBag.ListaDestinos[i]</option>
     }
+    <label for="quantity">Opcion (entre 1 y 10):</label>
+        <input type="number" id="Hotel" name="Hotel" min="1" max="10">
 </div>
 
 <div>
     <h1>Hoteles:</h1>
     @for (int i = 0; i < ViewBag.ListaHoteles.Count; i++)
     {
-        <option value="@i">@ViewBag.ListaHoteles[i]</option>
+        <img src="~/img/@ViewBag.ListaHoteles[i]">
     }
+        <label for="quantity">Opcion (entre 1 y 10):</label>
+        <input type="number" id="Hotel" name="Hotel" min="1" max="10">
+</div>
+<div>
+    <h1>Aereo:</h1>
+    @for (int i = 0; i < ViewBag.ListaAereos.Count; i++)
+    {
+        <img src="~/img/@ViewBag.ListaAereos[i]">
+    }
+        <label for="quantity">Opcion (entre 1 y 10):</label>
+        <input type="number" id="Hotel" name="Hotel" min="1" max="10">
 </div>
 
+<div>
+    <h1>Aereo:</h1>
+    @for (int i = 0; i < ViewBag.ListaExcursiones.Count; i++)
+    {
+        <img src="~/img/@ViewBag.ListaExcursiones[i]">
+    }
+        <label for="quantity">Opcion (entre 1 y 10):</label>
+        <input type="number" id="Hotel" name="Hotel" min="1" max="10">
+</div>
