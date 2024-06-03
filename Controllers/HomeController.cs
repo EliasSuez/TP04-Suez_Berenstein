@@ -13,17 +13,21 @@ public class HomeController : Controller
         _logger = logger;
     }
 
-    public IActionResult Index(Dictionary<string, Paquete> paquete)
+    public IActionResult Index(Dictionary<string, Paquete> paquete, int Hotel, int Aereo, int Excursion)
     {
         ViewBag.ListaDestinos = ORTWorld.ListaDestinos;
         ViewBag.ListaHoteles = ORTWorld.ListaHoteles;
         ViewBag.ListaAereos = ORTWorld.ListaAereos;
         ViewBag.ListaExcursiones = ORTWorld.ListaExcursiones;
+        int HotelElegido = Hotel;
+        int AereoElegido = Aereo;
+        int ExcursionElegida = Excursion;
 
+        Paquete paquete1 = new Paquete(ORTWorld.ListaHoteles[HotelElegido], ORTWorld.ListaAereos[AereoElegido], ORTWorld.ListaExcursiones[ExcursionElegida]);
         ViewBag.Diccionario = ORTWorld.Paquetes;
         return View();
     }
-    
+
     public IActionResult SelectPaquete()
     {
         ViewBag.ListaDestinos = ORTWorld.ListaDestinos;

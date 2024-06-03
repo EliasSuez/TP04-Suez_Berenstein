@@ -6,4 +6,14 @@
     <p>Bienvenidos al sitio web de OrtWorld</p>
     <a href='@Url.Action("SelectPaquete")'> Crear Paquete</a>
 
+
+    @foreach (KeyValuePair<string, Paquete> items in ViewBag.Diccionario)
+    {
+        <ol>
+            <h3>@items.Key</h3>
+            <li>@items.Value.Hotel</li>
+            <li>@items.Value.Aereo</li>
+            <li>@items.Value.Excursion</li>
+        </ol>
+    }
 </div>

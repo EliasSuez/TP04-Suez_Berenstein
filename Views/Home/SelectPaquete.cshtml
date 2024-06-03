@@ -1,11 +1,13 @@
 
+<a href='@Url.Action("Index")'> Volver a la Home</a>
+
 <div>
     <h1>Destinos:</h1>
     @for (int i = 0; i < ViewBag.ListaDestinos.Count; i++)
     {
         <option value="@i">@ViewBag.ListaDestinos[i]</option>
     }
-    <label for="quantity">Opcion (entre 1 y 10):</label>
+        <label for="quantity">Opcion (entre 1 y 10):</label>
         <input type="number" id="Destinos" name="Destinos" min="1" max="10">
 </div>
 
@@ -16,7 +18,7 @@
         <img src="~/img/@ViewBag.ListaHoteles[i]">
     }
         <label for="quantity">Opcion (entre 1 y 10):</label>
-        <input type="number" id="Hotel" name="Hotel" min="1" max="10">
+        <input type="number" id="Hotel" name="Hotel" min="1" max="10">  
 </div>
 <div>
     <h1>Aereo:</h1>
@@ -37,3 +39,7 @@
         <label for="quantity">Opcion (entre 1 y 10):</label>
         <input type="number" id="Excursiones" name="Excursiones" min="1" max="10">
 </div>
+
+<form>
+<input type="submit" value="Crear paquete" action='@Url.Action("Index")'>
+</form>
