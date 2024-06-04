@@ -15,11 +15,11 @@ public class ORTWorld
         };
         ListaHoteles = new List<string>
         {
-            "Alemania.jpg", "Argentina.jpg","Brasil.jfif","Chile.jpg","Colombia.jpg","Estados Unidos.webp","Francia.jpg","Inglaterra.jpg","Italia.jpg","Mexico.jpg"
+            "HotelAL.jpeg", "HotelAR.jpeg","HotelBR.jpg","HotelCH.jpg","HotelCO.jpg","HotelUSA.jpeg","HotelFR.jpeg","HotelIN.jpeg","HotelIT.jpeg","HotelME.jpg"
         };
         ListaAereos = new List<string>
         {
-            "Alemania.jpg", "Argentina.jpg","Brasil.jfif","Chile.jpg","Colombia.jpg","Estados Unidos.webp","Francia.jpg","Inglaterra.jpg","Italia.jpg","Mexico.jpg"
+            "aereo.jpeg", "aereo.jpeg","aereo.jpeg","aereo.jpeg","aereo.jpeg","aereo.jpeg","aereo.jpeg","aereo.jpeg","aereo.jpeg","aereo.jpeg"
         };
         ListaExcursiones = new List<string>
         {
