@@ -37,7 +37,7 @@ public class HomeController : Controller
         int HotelElegido = Hotel, ExcursionElegida = Excursiones, AereoElegido = Aereo;
         if (Hotel == 0 || Aereo == 0 || Excursiones == 0)
         {
-            return View("SelectPaquete");
+            return RedirectToAction("SelectPaquete");
         }
         else
         {
@@ -46,6 +46,7 @@ public class HomeController : Controller
             AereoElegido = Aereo;
             Paquete paquete1 = new Paquete(ORTWorld.ListaHoteles[HotelElegido], ORTWorld.ListaAereos[AereoElegido], ORTWorld.ListaExcursiones[ExcursionElegida]);
             string destinoSeleccionado = ORTWorld.ListaDestinos[Destinos];
+            ViewBag.Paquete = paquete1;
             ORTWorld.IngresarPaquete(destinoSeleccionado, paquete1);
             return View("Index");
         }
