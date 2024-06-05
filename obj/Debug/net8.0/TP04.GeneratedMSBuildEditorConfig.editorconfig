@@ -18,10 +18,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Trabajos ort\TP04-Suez_Berenstein
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Trabajos ort/TP04-Suez_Berenstein/Views/Home/CrearPaquete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhclBhcXVldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/Trabajos ort/TP04-Suez_Berenstein/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

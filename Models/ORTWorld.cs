@@ -27,10 +27,14 @@ public class ORTWorld
         };
         Paquetes = new Dictionary<string, Paquete>();
     }
-    static bool IngresarPaquete(string destinoSeleccionado, Paquete paquete)
+    public static bool IngresarPaquete(string destinoSeleccionado, Paquete paquete)
     {
         if (Paquetes.ContainsKey(destinoSeleccionado))
-            return false;
+        {
+            Paquetes.Add(destinoSeleccionado,paquete);
+        return false;
+        }
+            
         else
             return true;
     }

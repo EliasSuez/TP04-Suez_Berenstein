@@ -13,17 +13,12 @@ public class HomeController : Controller
         _logger = logger;
     }
 
-    public IActionResult Index(Dictionary<string, Paquete> paquete, int Hotel, int Aereo, int Excursion)
+    public IActionResult Index(Dictionary<string, Paquete> paquete)
     {
         ViewBag.ListaDestinos = ORTWorld.ListaDestinos;
         ViewBag.ListaHoteles = ORTWorld.ListaHoteles;
         ViewBag.ListaAereos = ORTWorld.ListaAereos;
         ViewBag.ListaExcursiones = ORTWorld.ListaExcursiones;
-        int HotelElegido = Hotel;
-        int AereoElegido = Aereo;
-        int ExcursionElegida = Excursion;
-
-        Paquete paquete1 = new Paquete(ORTWorld.ListaHoteles[HotelElegido], ORTWorld.ListaAereos[AereoElegido], ORTWorld.ListaExcursiones[ExcursionElegida]);
         ViewBag.Diccionario = ORTWorld.Paquetes;
         return View();
     }
@@ -35,5 +30,27 @@ public class HomeController : Controller
         ViewBag.ListaAereos = ORTWorld.ListaAereos;
         ViewBag.ListaExcursiones = ORTWorld.ListaExcursiones;
         return View();
+    }
+
+    public IActionResult GuardarPaquete(int Destinos, int Hotel, int Aereo, int Excursiones)
+    {
+        int HotelElegido = Hotel, ExcursionElegida = Excursiones, AereoElegido = Aereo;
+        if (Hotel == 0 || Aereo == 0 || Excursiones == 0)
+        {
+            return View("SelectPaquete");
+        }
+        else
+        {
+            HotelElegido = Hotel;
+            ExcursionElegida = Excursiones;
+            AereoElegido = Aereo;
+            Paquete paquete1 = new Paquete(ORTWorld.ListaHoteles[HotelElegido], ORTWorld.ListaAereos[AereoElegido], ORTWorld.ListaExcursiones[ExcursionElegida]);
+            string destinoSeleccionado = ORTWorld.ListaDestinos[Destinos];
+            ORTWorld.IngresarPaquete(destinoSeleccionado, paquete1);
+            return View("Index");
+        }
+
+
+
     }
 }

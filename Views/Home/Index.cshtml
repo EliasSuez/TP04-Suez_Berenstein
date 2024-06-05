@@ -3,10 +3,9 @@
 }
 
 <div>
+    
     <p>Bienvenidos al sitio web de OrtWorld</p>
     <a href='@Url.Action("SelectPaquete")'> Crear Paquete</a>
-
-
     @foreach (KeyValuePair<string, Paquete> items in ViewBag.Diccionario)
     {
         <ol>
