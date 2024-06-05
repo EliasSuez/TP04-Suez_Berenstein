@@ -9,35 +9,35 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TP04
 build_property.RootNamespace = TP04
-build_property.ProjectDir = D:\Trabajos ort\TP04-Suez_Berenstein\
+build_property.ProjectDir = Z:\4ID\Programacion\TP04-Suez_Berenstein\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Trabajos ort\TP04-Suez_Berenstein
+build_property.MSBuildProjectDirectory = Z:\4ID\Programacion\TP04-Suez_Berenstein
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Trabajos ort/TP04-Suez_Berenstein/Views/Home/Index.cshtml]
+[Z:/4ID/Programacion/TP04-Suez_Berenstein/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Trabajos ort/TP04-Suez_Berenstein/Views/Home/SelectPaquete.cshtml]
+[Z:/4ID/Programacion/TP04-Suez_Berenstein/Views/Home/SelectPaquete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWxlY3RQYXF1ZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Trabajos ort/TP04-Suez_Berenstein/Views/Shared/_Layout.cshtml]
+[Z:/4ID/Programacion/TP04-Suez_Berenstein/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Trabajos ort/TP04-Suez_Berenstein/Views/Shared/_ValidationScriptsPartial.cshtml]
+[Z:/4ID/Programacion/TP04-Suez_Berenstein/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Trabajos ort/TP04-Suez_Berenstein/Views/_ViewImports.cshtml]
+[Z:/4ID/Programacion/TP04-Suez_Berenstein/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Trabajos ort/TP04-Suez_Berenstein/Views/_ViewStart.cshtml]
+[Z:/4ID/Programacion/TP04-Suez_Berenstein/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

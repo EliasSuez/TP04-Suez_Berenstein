@@ -1,147 +1,147 @@
 {
   "Files": [
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\css\\site.css",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\favicon.ico",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\img\\Alemania.jpg",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\Alemania.jpg",
       "PackagePath": "staticwebassets\\img\\Alemania.jpg"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\img\\Argentina.jpg",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\Argentina.jpg",
       "PackagePath": "staticwebassets\\img\\Argentina.jpg"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\img\\Brasil.jfif",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\Brasil.jfif",
       "PackagePath": "staticwebassets\\img\\Brasil.jfif"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\img\\Chile.jpg",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\Chile.jpg",
       "PackagePath": "staticwebassets\\img\\Chile.jpg"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\img\\Colombia.jpg",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\Colombia.jpg",
       "PackagePath": "staticwebassets\\img\\Colombia.jpg"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\img\\Estados Unidos.webp",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\Estados Unidos.webp",
       "PackagePath": "staticwebassets\\img\\Estados Unidos.webp"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\img\\Francia.jpg",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\Francia.jpg",
       "PackagePath": "staticwebassets\\img\\Francia.jpg"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelAL.jpeg",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelAL.jpeg",
       "PackagePath": "staticwebassets\\img\\HotelAL.jpeg"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelAR.jpeg",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelAR.jpeg",
       "PackagePath": "staticwebassets\\img\\HotelAR.jpeg"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelBR.jpg",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelBR.jpg",
       "PackagePath": "staticwebassets\\img\\HotelBR.jpg"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelCH.jpg",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelCH.jpg",
       "PackagePath": "staticwebassets\\img\\HotelCH.jpg"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelCO.jpg",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelCO.jpg",
       "PackagePath": "staticwebassets\\img\\HotelCO.jpg"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelFR.jpeg",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelFR.jpeg",
       "PackagePath": "staticwebassets\\img\\HotelFR.jpeg"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelIN.jpeg",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelIN.jpeg",
       "PackagePath": "staticwebassets\\img\\HotelIN.jpeg"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelIT.jpeg",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelIT.jpeg",
       "PackagePath": "staticwebassets\\img\\HotelIT.jpeg"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelME.jpg",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelME.jpg",
       "PackagePath": "staticwebassets\\img\\HotelME.jpg"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelUSA.jpeg",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelUSA.jpeg",
       "PackagePath": "staticwebassets\\img\\HotelUSA.jpeg"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\img\\Inglaterra.jpg",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\Inglaterra.jpg",
       "PackagePath": "staticwebassets\\img\\Inglaterra.jpg"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\img\\Italia.jpg",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\Italia.jpg",
       "PackagePath": "staticwebassets\\img\\Italia.jpg"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\img\\Mexico.jpg",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\Mexico.jpg",
       "PackagePath": "staticwebassets\\img\\Mexico.jpg"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\img\\aereo.jpeg",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\aereo.jpeg",
       "PackagePath": "staticwebassets\\img\\aereo.jpeg"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\js\\site.js",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\Trabajos ort\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
