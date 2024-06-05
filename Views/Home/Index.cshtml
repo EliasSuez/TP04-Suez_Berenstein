@@ -2,17 +2,20 @@
     ViewData["Title"] = "Index";
 }
 
-<div>
-    
-    <p>Bienvenidos al sitio web de OrtWorld</p>
-    <a href='@Url.Action("SelectPaquete")'> Crear Paquete</a>
+<div class="contenedor">
+    <div class="Bienvenida">
+        <p>Bienvenidos al sitio web de OrtWorld</p>
+        <a href='@Url.Action("SelectPaquete")' class="link">Crear Paquete</a>
+    </div>
     @foreach (KeyValuePair<string, Paquete> items in ViewBag.Diccionario)
     {
-        <ol>
+        <div class="paquete">
             <h3>@items.Key</h3>
-            <li>@items.Value.Hotel</li>
-            <li>@items.Value.Aereo</li>
-            <li>@items.Value.Excursion</li>
-        </ol>
+            <ul>
+                <li>@items.Value.Hotel</li>
+                <li>@items.Value.Aereo</li>
+                <li>@items.Value.Excursion</li>
+            </ul>
+        </div>
     }
 </div>
