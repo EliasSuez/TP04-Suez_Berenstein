@@ -29,13 +29,14 @@ public class ORTWorld
     }
     public static bool IngresarPaquete(string destinoSeleccionado, Paquete paquete)
     {
-        if (Paquetes.ContainsKey(destinoSeleccionado))
+        if (ListaDestinos.Contains(destinoSeleccionado))
         {
-            Paquetes.Add(destinoSeleccionado,paquete);
-            return false;
-        }
-            
-        else
+            Paquetes.Add(destinoSeleccionado, paquete);
             return true;
+        }
+        else
+        return false;
+        
+            
     }
 }

@@ -56,3 +56,32 @@ D:\Trabajos ort\TP04-Suez_Berenstein\obj\Debug\net8.0\staticwebassets.pack.json
 D:\Trabajos ort\TP04-Suez_Berenstein\obj\Debug\net8.0\scopedcss\bundle\TP04.styles.css
 D:\Trabajos ort\TP04-Suez_Berenstein\obj\Debug\net8.0\TP04.genruntimeconfig.cache
 D:\Trabajos ort\TP04-Suez_Berenstein\obj\Debug\net8.0\ref\TP04.dll
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\bin\Debug\net8.0\TP04.staticwebassets.runtime.json
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\bin\Debug\net8.0\TP04.exe
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\bin\Debug\net8.0\TP04.deps.json
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\bin\Debug\net8.0\TP04.runtimeconfig.json
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\bin\Debug\net8.0\TP04.dll
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\bin\Debug\net8.0\TP04.pdb
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\obj\Debug\net8.0\TP04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\obj\Debug\net8.0\TP04.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\obj\Debug\net8.0\TP04.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\obj\Debug\net8.0\TP04.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\obj\Debug\net8.0\TP04.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\obj\Debug\net8.0\TP04.RazorAssemblyInfo.cache
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\obj\Debug\net8.0\TP04.RazorAssemblyInfo.cs
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\obj\Debug\net8.0\TP04.sourcelink.json
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\obj\Debug\net8.0\staticwebassets\msbuild.TP04.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\obj\Debug\net8.0\staticwebassets\msbuild.build.TP04.props
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TP04.props
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TP04.props
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\obj\Debug\net8.0\scopedcss\bundle\TP04.styles.css
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\obj\Debug\net8.0\TP04.dll
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\obj\Debug\net8.0\refint\TP04.dll
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\obj\Debug\net8.0\TP04.pdb
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\obj\Debug\net8.0\TP04.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\TP04-Suez_Berenstein\TP04-Suez_Berenstein\obj\Debug\net8.0\ref\TP04.dll

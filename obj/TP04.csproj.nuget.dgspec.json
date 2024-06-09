@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\TP04.csproj": {}
+    "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\TP04.csproj": {}
   },
   "projects": {
-    "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\TP04.csproj": {
+    "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\TP04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\TP04.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\TP04.csproj",
         "projectName": "TP04",
-        "projectPath": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\TP04.csproj",
-        "packagesPath": "C:\\Users\\48240167\\.nuget\\packages\\",
-        "outputPath": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\TP04.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\48240167\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

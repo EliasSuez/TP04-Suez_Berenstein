@@ -9,15 +9,19 @@
     </div>
 
     
-    @if(ViewBag.Paquete != null){
-        @foreach (string items in ViewBag.Paquete)
+    @if (ViewBag.DiccionarioPaquetes != null && ((IDictionary<string, Paquete>)ViewBag.DiccionarioPaquetes).Count > 0)
+    {
+         <h2>Paquetes disponibles:</h2>
+        foreach (KeyValuePair<string, Paquete> item in (IDictionary<string, Paquete>)ViewBag.DiccionarioPaquetes)
         {
+            string destino = item.Key;
+            Paquete paquete = item.Value;
             <div class="paquete">
-                <h3>@items</h3>
+                <h3>@destino</h3>
                 <ul>
-                    <li>@Paquete[items].Hotel</li>
-                    <li>@Paquete[items].Aereo</li>
-                    <li>@Paquete[items].Excursion</li>
+                    <li>Hotel: <img src="~/img/@paquete.Hotel"></li>
+                    <li>Aereo: <img src="~/img/@paquete.Aereo"></li>
+                    <li>Excursion: <img src="~/img/@paquete.Excursion"></li>
                 </ul>
             </div>
         }

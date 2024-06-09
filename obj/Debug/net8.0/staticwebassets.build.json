@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aVV+No6nYqlVBmMZbZ+VZGC2SY9zDYpxEXPZ/xwZB6k=",
+  "Hash": "asqcjaLhpJtaWitfOTr6aJGIvre4f8Kb1RZRTCE+BZM=",
   "Source": "TP04",
   "BasePath": "_content/TP04",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TP04\\wwwroot",
       "Source": "TP04",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\css\\site.css",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\favicon.ico",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\aereo.jpeg",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\img\\aereo.jpeg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/aereo.jpeg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\img\\aereo.jpeg"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\Alemania.jpg",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\img\\Alemania.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/Alemania.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Alemania.jpg"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\Argentina.jpg",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\img\\Argentina.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/Argentina.jpg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Argentina.jpg"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\Brasil.jfif",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\img\\Brasil.jfif",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/Brasil.jfif",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Brasil.jfif"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\Chile.jpg",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\img\\Chile.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/Chile.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Chile.jpg"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\Colombia.jpg",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\img\\Colombia.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/Colombia.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Colombia.jpg"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\Estados Unidos.webp",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\img\\Estados Unidos.webp",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/Estados Unidos.webp",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Estados Unidos.webp"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\Francia.jpg",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\img\\Francia.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/Francia.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Francia.jpg"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelAL.jpeg",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelAL.jpeg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/HotelAL.jpeg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\img\\HotelAL.jpeg"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelAR.jpeg",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelAR.jpeg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/HotelAR.jpeg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\img\\HotelAR.jpeg"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelBR.jpg",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelBR.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/HotelBR.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\img\\HotelBR.jpg"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelCH.jpg",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelCH.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/HotelCH.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\img\\HotelCH.jpg"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelCO.jpg",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelCO.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/HotelCO.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\img\\HotelCO.jpg"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelFR.jpeg",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelFR.jpeg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/HotelFR.jpeg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\img\\HotelFR.jpeg"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelIN.jpeg",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelIN.jpeg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/HotelIN.jpeg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\HotelIN.jpeg"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelIT.jpeg",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelIT.jpeg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/HotelIT.jpeg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\img\\HotelIT.jpeg"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelME.jpg",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelME.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/HotelME.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\img\\HotelME.jpg"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelUSA.jpeg",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\img\\HotelUSA.jpeg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/HotelUSA.jpeg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\img\\HotelUSA.jpeg"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\Inglaterra.jpg",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\img\\Inglaterra.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/Inglaterra.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Inglaterra.jpg"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\Italia.jpg",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\img\\Italia.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/Italia.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Italia.jpg"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\img\\Mexico.jpg",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\img\\Mexico.jpg",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "img/Mexico.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Mexico.jpg"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\js\\site.js",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TP04",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4ID\\Programacion\\TP04-Suez_Berenstein\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Downloads\\TP04-Suez_Berenstein\\TP04-Suez_Berenstein\\wwwroot\\",
       "BasePath": "_content/TP04",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
